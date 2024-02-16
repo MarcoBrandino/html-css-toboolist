@@ -18,6 +18,10 @@ body {
     background-color: #236383;
 }
 
+hr {
+    background-color: #236383;
+}
+
 /* HEADER */
 
 .bg-white {
@@ -39,10 +43,12 @@ body {
 .container {
     max-width: 800px;
     margin: 0 auto;
+    padding: 10px;
 }
 
 .card {
     background-color: white;
+    border-radius: 3px;
 }
 
 .rectangle-blu {
@@ -132,7 +138,7 @@ h2 {
     border-radius: 50%;
     padding: 3px;
     outline: 1px solid green;
-    margin-left: 10px;
+    /* margin-left: 10px; */
 }
 
 .circle-red {
@@ -140,9 +146,38 @@ h2 {
     border-radius: 50%;
     padding: 3px;
     outline: 1px solid red;
-    margin-left: 10px;
+    /* margin-left: 10px; */
 }
 
 .font-size-enorme {
     font-size: 50px;
+}
+
+.add-task {
+    background-color: aquamarine;
+    color: black;
+    padding: 5px 10px;
+    width: 50px;
+    font-size: 20px;
+    border-radius: 2px;
+    line-height: 20px;
+    vertical-align: middle;
+    outline: 1px solid grey;
+}
+
+.add-section {
+    background-color: white;
+    color: black;
+    padding: 5px 10px;
+    width: 50px;
+    font-size: 20px;
+    border-radius: 2px;
+    line-height: 20px;
+    vertical-align: middle;
+    outline: 1px solid grey;
+}
+
+.margin-venti {
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
