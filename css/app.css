@@ -1,0 +1,148 @@
+/* RESET */
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+ul,
+ol,
+menu {
+    list-style: none;
+}
+
+/* BODY */
+
+body {
+    background-color: #236383;
+}
+
+/* HEADER */
+
+.bg-white {
+    background-color: rgb(223, 27, 27);
+}
+
+.logo {
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+/* MAIN */
+
+.content {
+    padding-top: 25px;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.card {
+    background-color: white;
+}
+
+.rectangle-blu {
+    background-color: aqua;
+    color: white;
+    padding: 5px 10px;
+    width: 50px;
+    font-size: 7px;
+    border-radius: 10px;
+    margin-bottom: 100px;
+    line-height: 20px;
+    vertical-align: middle;
+}
+
+.rectangle-purple {
+    background-color: purple;
+    color: white;
+    padding: 5px 10px;
+    width: 50px;
+    font-size: 7px;
+    border-radius: 10px;
+    line-height: 20px;
+    vertical-align: middle;
+}
+
+.rectangle-green {
+    background-color: green;
+    color: white;
+    padding: 5px 10px;
+    width: 50px;
+    font-size: 7px;
+    border-radius: 10px;
+    line-height: 20px;
+    vertical-align: middle;
+}
+
+.rectangle-orange {
+    background-color: orange;
+    color: white;
+    padding: 5px 10px;
+    width: 50px;
+    font-size: 7px;
+    ;
+    border-radius: 10px;
+    line-height: 20px;
+    vertical-align: middle;
+}
+
+.rectangle-pink {
+    background-color: pink;
+    color: white;
+    padding: 5px 10px;
+    width: 50px;
+    font-size: 7px;
+    border-radius: 10px;
+    line-height: 20px;
+    vertical-align: middle;
+}
+
+.rectangle-green-light {
+    background-color: greenyellow;
+    color: white;
+    padding: 5px 10px;
+    width: 50px;
+    font-size: 7px;
+    border-radius: 10px;
+    line-height: 20px;
+    vertical-align: middle;
+}
+
+li {
+    vertical-align: middle;
+    line-height: 30px;
+}
+
+h2 {
+    padding-top: 20px;
+    vertical-align: middle;
+}
+
+.font-size-small {
+    font-size: small;
+}
+
+.circle {
+    color: green;
+    border-radius: 50%;
+    padding: 3px;
+    outline: 1px solid green;
+    margin-left: 10px;
+}
+
+.circle-red {
+    color: red;
+    border-radius: 50%;
+    padding: 3px;
+    outline: 1px solid red;
+    margin-left: 10px;
+}
+
+.font-size-enorme {
+    font-size: 50px;
+}
