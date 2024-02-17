@@ -63,7 +63,7 @@ body {
 }
 
 .rectangle-blu {
-    background-color: aqua;
+    background-color: #09a9ed;
     color: white;
     padding: 5px 10px;
     width: 50px;
@@ -75,18 +75,18 @@ body {
 }
 
 .rectangle-purple {
-    background-color: purple;
+    background-color: #ab5de6;
     color: white;
     padding: 5px 10px;
     width: 50px;
-    font-size: 7px;
+    font-size: 120px;
     border-radius: 10px;
     line-height: 20px;
     vertical-align: middle;
 }
 
 .rectangle-green {
-    background-color: green;
+    background-color: #2cc6ab;
     color: white;
     padding: 5px 10px;
     width: 50px;
@@ -97,7 +97,7 @@ body {
 }
 
 .rectangle-orange {
-    background-color: orange;
+    background-color: #ff9b00;
     color: white;
     padding: 5px 10px;
     width: 50px;
@@ -109,7 +109,7 @@ body {
 }
 
 .rectangle-pink {
-    background-color: pink;
+    background-color: #ec4a9d;
     color: white;
     padding: 5px 10px;
     width: 50px;
@@ -120,7 +120,7 @@ body {
 }
 
 .rectangle-green-light {
-    background-color: greenyellow;
+    background-color: #a3d116;
     color: white;
     padding: 5px 10px;
     width: 50px;
@@ -132,7 +132,8 @@ body {
 
 li {
     vertical-align: middle;
-    line-height: 30px;
+    line-height: 300px;
+    /* Come diamine centro tutto il contenuto */
 }
 
 h2 {
